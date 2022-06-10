@@ -9,9 +9,8 @@ function App() {
     <div className="App">
       <Todos />
       <TrafficLight initialValue={0}/>
-      <TrafficLight initialValue={1}/> */
-      <FetchGithubUsers />
-      
+      <TrafficLight initialValue={1}/>
+      {/* <FetchGithubUsers /> */}
     </div>
   );
 }
